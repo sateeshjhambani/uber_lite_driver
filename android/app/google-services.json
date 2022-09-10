@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1017104351180",
+    "firebase_url": "https://uber-lite777-default-rtdb.firebaseio.com",
+    "project_id": "uber-lite777",
+    "storage_bucket": "uber-lite777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017104351180:android:8eab23163db9ea01f1a769",
+        "android_client_info": {
+          "package_name": "com.sateeshjh.uber_lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017104351180-ts1ok3egn7mq6qno4d6e7vja93jpf1rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1MwvmY0ylcAnivpYpeMQi9mcGIPPGQ90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017104351180-ts1ok3egn7mq6qno4d6e7vja93jpf1rh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017104351180-b9o3otlp0ohb0r47d80i2f33qc4o460r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sateeshjh.uberLite"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017104351180:android:01808c7eac7f03c6f1a769",
+        "android_client_info": {
+          "package_name": "com.sateeshjh.uber_lite_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017104351180-ts1ok3egn7mq6qno4d6e7vja93jpf1rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1MwvmY0ylcAnivpYpeMQi9mcGIPPGQ90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017104351180-ts1ok3egn7mq6qno4d6e7vja93jpf1rh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017104351180-b9o3otlp0ohb0r47d80i2f33qc4o460r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sateeshjh.uberLite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
